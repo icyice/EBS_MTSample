@@ -50,7 +50,7 @@ namespace ConsoleSubscriber
             //                                        sbc.Subscribe(x=>x.Handler<ProductChangeMessage>(msg=>Console.WriteLine(msg)));
             //                                    });
            
-            Bus.Instance.WriteIntrospectionToConsole();
+            //Bus.Instance.WriteIntrospectionToConsole();
             //Bus.Instance.WriteIntrospectionToConsole();
            
             Console.Read();
