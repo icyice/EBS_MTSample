@@ -1,0 +1,9 @@
+c:\users\bleng\documents\visual studio 2012\Projects\EBSSample\Messages\bin\Debug\Messages.dll
+c:\users\bleng\documents\visual studio 2012\Projects\EBSSample\Messages\bin\Debug\Messages.pdb
+c:\users\bleng\documents\visual studio 2012\Projects\EBSSample\Messages\obj\Debug\Messages.dll
+c:\users\bleng\documents\visual studio 2012\Projects\EBSSample\Messages\obj\Debug\Messages.pdb
+C:\Users\bleng\Documents\Visual Studio 2012\Projects\EBSSample\EBS_MTSample\Messages\bin\Debug\Messages.dll
+C:\Users\bleng\Documents\Visual Studio 2012\Projects\EBSSample\EBS_MTSample\Messages\bin\Debug\Messages.pdb
+C:\Users\bleng\Documents\Visual Studio 2012\Projects\EBSSample\EBS_MTSample\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\bleng\Documents\Visual Studio 2012\Projects\EBSSample\EBS_MTSample\Messages\obj\Debug\Messages.dll
+C:\Users\bleng\Documents\Visual Studio 2012\Projects\EBSSample\EBS_MTSample\Messages\obj\Debug\Messages.pdb
